@@ -21,5 +21,3 @@ It includes options for chat support, call, and email, along with a contact form
 - **CSS3 (Modules)**
 - **Vite** (for fast development server and build)
 
-
-## 📂 Project Structure
